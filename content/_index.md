@@ -6,7 +6,7 @@ tags:
   - numérique
   - accompagnement
   - mots de passe
-  - obsidian
+  - obsidian YES!
 ---
 
 # 💻 Facilo Rapido
