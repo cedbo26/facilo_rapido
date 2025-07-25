@@ -10,7 +10,7 @@ tags: [mot-de-passe, sécurité, apple, trousseau, iCloud, facilo-procedure]
 aliases: [gestion mdp apple, trousseau apple, coffre iCloud]
 cssclass: procedure-outil
 related:
-  - [[📄 Procedure_Coffre_Facilo]]
+  - [[Procedure Coffre Facilo]]
   - [[📄 Analyse_Trousseau_iCloud]]
   - [[📄 Intervention_Installation_Trousseau]]
   - [[📄 Fiche Client – Jean Dupont]]
@@ -77,13 +77,13 @@ Le but est d’activer une solution **simple, native, sécurisée** et qui ne de
 - Le **mot de passe Apple est la clef** : il ne faut jamais le perdre
 - Éviter d’utiliser plusieurs Apple ID
 - Ne pas partager l’identifiant Apple avec un tiers
-- En cas de doute → intervention FACILO ou consulter [[📄 Procedure_Coffre_Facilo]]
+- En cas de doute → intervention FACILO ou consulter [[Procedure Coffre Facilo]]
 
 ---
 
 ## 🔁 Liens utiles
 - [[📄 Analyse_Trousseau_iCloud]]
-- [[📄 Procedure_Coffre_Facilo]]
+- [[Procedure Coffre Facilo]]
 - [[📄 Intervention_Installation_Trousseau]]
 - [[🧰 Outils_clients_et_interventions]]
 - [[📦 Packs_en_cours_de_création]]

@@ -11,7 +11,7 @@ related:
   - [[Gestion mdp (macOS + iOS)]]
   - [[Gestion mdp mixte macOS + Android - iOS + PC]]
   - [[Gestion mdp Windows - Android]]
-  - [[📄 Procedure_Coffre_Facilo]]
+  - [[Procedure Coffre Facilo]]
 ---
 
 # 🧭 Index – Gestionnaires de mots de passe FACILO

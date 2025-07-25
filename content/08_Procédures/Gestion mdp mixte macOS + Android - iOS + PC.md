@@ -10,9 +10,9 @@ tags: [mot-de-passe, sécurité, bitwarden, multi-plateforme, facilo-procedure]
 aliases: [gestion mdp mixte, bitwarden, mdp multiplateforme]
 cssclass: procedure-outil
 related:
-  - [[📄 Procedure_Coffre_Facilo]]
+  - [[Procedure Coffre Facilo]]
   - [[📄 Analyse_Bitwarden]]
-  - [[📄 Intervention_Bitwarden_Installation]]
+  - [[Intervention_Bitwarden_Installation]]
   - [[📄 Fiche Client – Hannelore]]
   - [[📄 Modele_Fiche_Intervention]]
   - [[🧰 Outils_clients_et_interventions]]
@@ -42,7 +42,7 @@ Ce gestionnaire permet une **synchronisation sécurisée** entre Mac, Android, i
 - Choisir un **mot de passe maître robuste**
   - Minimum 12 caractères
   - Conseiller une phrase de passe
-- Noter ce mot de passe dans [[📄 Procedure_Coffre_Facilo]]
+- Noter ce mot de passe dans [[Procedure Coffre Facilo]]
 
 ### 2. Installer Bitwarden sur tous les appareils
 
@@ -80,7 +80,7 @@ Ce gestionnaire permet une **synchronisation sécurisée** entre Mac, Android, i
 - Mail du compte Bitwarden
 - Mot de passe maître
 - Adresse de récupération (si différente)
-→ Cf. [[📄 Procedure_Coffre_Facilo]]
+→ Cf. [[Procedure Coffre Facilo]]
 
 ---
 
@@ -93,8 +93,8 @@ Ce gestionnaire permet une **synchronisation sécurisée** entre Mac, Android, i
 
 ## 🔁 Liens utiles
 - [[📄 Analyse_Bitwarden]]
-- [[📄 Intervention_Bitwarden_Installation]]
-- [[📄 Procedure_Coffre_Facilo]]
+- [[Intervention_Bitwarden_Installation]]
+- [[Procedure Coffre Facilo]]
 - [[🧰 Outils_clients_et_interventions]]
 - [[📦 Packs_en_cours_de_création]]
 - [[📄 Fiche Client – Hannelore]]

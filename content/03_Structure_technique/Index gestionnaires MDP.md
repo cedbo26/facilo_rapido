@@ -8,10 +8,10 @@ tags: [mot-de-passe, sécurité, coffres, gestionnaire, index, facilo-procedure]
 aliases: [gestionnaires mdp, index mdp, comparatif mdp]
 cssclass: index-note
 related:
-  - [[📄 Analyse MDP Apple – Trousseau iCloud]]
-  - [[📄 Analyse MDP Bitwarden – Multiplateforme]]
+  - [[Trousseau iCloud]]
+  - [[Bitwarden]]
   - [[📄 Analyse MDP Google – Password Manager]]
-  - [[📄 Procedure_Coffre_Facilo]]
+  - [[Procedure Coffre Facilo]]
 ---
 
 # 🧭 Index – Gestionnaires de mots de passe FACILO
@@ -30,10 +30,10 @@ Guider l’intervenant dans le **choix de l’outil le plus adapté**, en foncti
 
 ## 📂 Outils analysés
 
-### 🍏 [[📄 Analyse MDP Apple – Trousseau iCloud]]
+### 🍏 [[Trousseau iCloud]]
 ➡️ Gestionnaire natif pour clients **100% Apple (macOS + iOS)**, utilisant **Safari**.
 
-### 🔄 [[📄 Analyse MDP Bitwarden – Multiplateforme]]
+### 🔄 [[Bitwarden]]
 ➡️ Solution **universelle** et **open source**, adaptée aux **écosystèmes mixtes** ou aux utilisateurs de **Chrome sur Apple**.
 
 ### 🟢 [[📄 Analyse MDP Google – Password Manager]]
@@ -56,7 +56,7 @@ Guider l’intervenant dans le **choix de l’outil le plus adapté**, en foncti
 ---
 
 ## 📎 Ressources connexes
-- [[📄 Procedure_Coffre_Facilo]]
-- [[📄 Intervention_Bitwarden_Installation]]
+- [[Procedure Coffre Facilo]]
+- [[Intervention_Bitwarden_Installation]]
 - [[📄 Intervention_Trousseau_Activation]]
-- [[📄 Intervention_Google_Password_Activation]]
+- [[Google Password Manager]]

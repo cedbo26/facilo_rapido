@@ -9,10 +9,10 @@ tags: [bitwarden, mot-de-passe, gestionnaire, sécurité, facilo-analyse]
 aliases: [coffre bitwarden, mdp bitwarden, bitwarden facilo]
 cssclass: fiche-outil
 related:
-  - [[📄 Gestion mdp mixte macOS + Android - iOS + PC]]
-  - [[📄 Gestion mdp Windows - Android]]
-  - [[📄 Procedure_Coffre_Facilo]]
-  - [[📄 Intervention_Bitwarden_Installation]]
+  - [[Gestion mdp mixte macOS + Android - iOS + PC]]
+  - [[Gestion mdp Windows - Android]]
+  - [[Procedure Coffre Facilo]]
+  - [[Intervention_Bitwarden_Installation]]
   - [[🧰 Outils_clients_et_interventions]]
 ---
 
@@ -73,10 +73,10 @@ Bitwarden est un **gestionnaire de mots de passe sécurisé, open-source et mult
 ---
 
 ## 🔁 Liens internes
-- [[📄 Gestion mdp mixte macOS + Android - iOS + PC]]
-- [[📄 Gestion mdp Windows - Android]]
-- [[📄 Procedure_Coffre_Facilo]]
-- [[📄 Intervention_Bitwarden_Installation]]
+- [[Gestion mdp mixte macOS + Android - iOS + PC]]
+- [[Gestion mdp Windows - Android]]
+- [[Procedure Coffre Facilo]]
+- [[Intervention_Bitwarden_Installation]]
 - [[🧰 Outils_clients_et_interventions]]
 
 ---
