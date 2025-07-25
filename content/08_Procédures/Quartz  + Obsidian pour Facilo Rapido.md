@@ -49,7 +49,7 @@ exit 0
 ## 3. Raccourci d’exécution (macOS)
 
 - Ouvre **Raccourcis** > Crée un nouveau raccourci intitulé  
-  **"Publish FACILO Obsidian to web"** *(cf. capture d’écran)*. ![[Capture d’écran 2025-07-25 à 04.38.08.png]]
+  **"Publish FACILO Obsidian to web"** ![[Shell_raccourci_Obsidian to web.png]]
 - Action : **Exécuter le script Shell**  
   `/Users/benaissa287/Documents/GitHub/facilo_rapido/sync_obsidian_to_quartz.sh`
 - Shell : `zsh`
