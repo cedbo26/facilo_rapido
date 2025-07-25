@@ -5,16 +5,25 @@ usage: mot-de-passe maître
 status: validé
 created: 2025-07-25
 author: Facilo Rapido
-tags: [coffre, mot-de-passe, sécurité, coffre-facilo, facilo-procedure]
-aliases: [mot de passe maître, mot de passe principal, coffre papier]
-cssclass: procedure-outil
+tags:
+  - coffre
+  - mot-de-passe
+  - sécurité
+  - coffre-facilo
+  - facilo-procedure
+aliases:
+  - mot de passe maître
+  - mot de passe principal
+  - coffre papier
+cssclasses:
+  - fiche-client
 related:
-  - [[📄 Gestion mdp (macOS + iOS)]]
-  - [[📄 Gestion mdp mixte macOS + Android - iOS + PC]]
-  - [[📄 Gestion mdp Windows - Android]]
-  - [[📄 Analyse_Bitwarden]]
-  - [[📄 Analyse_Trousseau_iCloud]]
-  - [[📄 Fiche Client – ...]]
+  - - - 📄 Gestion mdp (macOS + iOS)
+  - - - 📄 Gestion mdp mixte macOS + Android - iOS + PC
+  - - - 📄 Gestion mdp Windows - Android
+  - - - 📄 Analyse_Bitwarden
+  - - - 📄 Analyse_Trousseau_iCloud
+  - - - 📄 Fiche Client – ...
 ---
 
 # 🔐 Procédure FACILO – Coffre client (mot de passe maître)
