@@ -17,40 +17,53 @@ cp -R "$VAULT" ./content
 find ./content -name ".DS_Store" -delete
 rm -rf ./content/.obsidian
 
-# 🟢 Vérifie que _index.md existe, sinon le recrée avec un modèle minimal
-if [ ! -f "./content/_index.md" ]; then
+# 🟢 Écrase _index.md par la version personnalisée à chaque synchronisation
 cat <<'EOF' > ./content/_index.md
 ---
-title: Facilo Rapido – Jardin numérique
-description: Tranquillité numérique, accompagnement humain. Notes et documentation interne du projet Facilo Rapido.
-tags:
-  - facilo
-  - numérique
-  - accompagnement
+title: 🧭 Accueil – Vault FACILO
+description: Espace de travail interne pour le suivi des outils, interventions et procédures du service Facilo Rapido.
+tags: [accueil, interne, organisation]
 ---
 
-# 💻 Facilo Rapido
+# 🧭 FACILO – Espace de documentation interne
 
-Bienvenue sur la base publique du projet **Facilo Rapido**, service d’assistance numérique pour les particuliers et familles.
+Bienvenue dans le **Vault FACILO**, la base de connaissance interne du service **Facilo Rapido**.
 
----
-
-## 🎯 Mission
-
-> Simplifier la vie numérique des personnes, résoudre les problèmes techniques, réorganiser leurs accès essentiels et leur redonner de l'autonomie.
+> Ce site est destiné exclusivement à **l’usage interne** de l’équipe Facilo (administration, terrain, technique, partenaires proches).
 
 ---
 
-## 📂 Navigation
+## 📂 Navigation rapide
 
-👉 [Structure des services](Structure_des_services.md)  
-👉 [Pack Facilo Start](Facilo_Start.md)  
-👉 [Pack Zen & Familia](Facilo_Zen_et_Familia.md)  
-👉 [FAQ et procédures](FAQ.md)
+Vous pouvez explorer les contenus structurés par section dans le menu latéral ou utiliser la recherche en haut de page.
 
-*Cette page est en construction. Reviens bientôt !*
+### 🔍 Accès rapide aux sections principales :
+
+- 📁 **[Fiches clients](../Clients)** : informations, packs actifs, suivi personnalisé
+- 🛠️ **[Fiches interventions](../Interventions)** : toutes les actions réalisées sur le terrain ou à distance
+- 📄 **[Procédures & modèles](../07_Templates_Obsidian)** : guides réutilisables, templates standard
+- 🧰 **[Outils et configuration technique](../03_Structure_technique)** : scripts, exports, infrastructures
+- 💼 **[Business, offres et finances](../01_Business_Design)** : grille tarifaire, business model, projections
+- 🗂️ **[Annexes & documents externes](../08_Annexes)** : captures, pièces justificatives
+
+---
+
+## 🧠 À propos de ce site
+
+- Géré depuis **Obsidian** avec une structure modulaire et des fichiers interconnectés
+- Ce site est mis à jour automatiquement depuis le dossier local :  
+  `/Users/benaissa287/Library/Mobile Documents/iCloud~md~obsidian/Documents/FACILO`
+
+---
+
+📌 Pour tout nouveau fichier :
+- Pensez à bien remplir les **propriétés YAML** (`type`, `tags`, `status`, etc.)
+- Lier les documents entre eux via `[[rétroliens]]`
+
+---
+
+🔐 **Usage privé uniquement** – ne pas partager en dehors de l’équipe.
 EOF
-fi
 
 # Ajouter toutes les modifications à git
 git add content
