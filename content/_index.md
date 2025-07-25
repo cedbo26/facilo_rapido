@@ -7,6 +7,7 @@ tags:
   - accompagnement
   - mots de passe
   - obsidian YES!
+Publication online?
 ---
 
 # 💻 Facilo Rapido
