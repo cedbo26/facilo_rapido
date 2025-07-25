@@ -1,15 +1,3 @@
----
-title: Facilo Rapido – Jardin numérique
-description: Tranquillité numérique, accompagnement humain. Notes et documentation interne du projet Facilo Rapido.
-tags:
-  - facilo
-  - numérique
-  - accompagnement
-  - mots de passe
-  - obsidian YES!
-Publication online?
----
-
 # 💻 Facilo Rapido
 
 Bienvenue sur la base publique du projet **Facilo Rapido**, service d’assistance numérique pour les particuliers et familles.
