@@ -10,7 +10,7 @@ tags: [mot-de-passe, sécurité, android, windows, google, bitwarden, facilo-pro
 aliases: [gestion mdp google, mdp android-pc, bitwarden pc]
 cssclass: procedure-outil
 related:
-  - [[Procedure Coffre Facilo]]
+  - [[08_Procédures/Procedure Coffre Facilo]]
   - [[📄 Analyse_Google_Password_Manager]]
   - [[📄 Analyse_Bitwarden]]
   - [[📄 Intervention_Installation_Gestionnaire_MDP]]
@@ -71,7 +71,7 @@ Procédure identique à [[📄 Procedure_Gestionnaire_MotsDePasse_Mixte]], à ad
    - **Application Bitwarden** sur Android
 3. Activer le remplissage automatique
 4. Vérifier la synchronisation entre PC ↔ Android
-5. Ajouter les accès au [[Procedure Coffre Facilo]]
+5. Ajouter les accès au [[08_Procédures/Procedure Coffre Facilo]]
 
 ---
 
@@ -93,7 +93,7 @@ Procédure identique à [[📄 Procedure_Gestionnaire_MotsDePasse_Mixte]], à ad
 - [[📄 Analyse_Google_Password_Manager]]
 - [[📄 Analyse_Bitwarden]]
 - [[📄 Intervention_Installation_Gestionnaire_MDP]]
-- [[Procedure Coffre Facilo]]
+- [[08_Procédures/Procedure Coffre Facilo]]
 - [[🧰 Outils_clients_et_interventions]]
 - [[📄 Fiche Client – Jean Dupont]]
 

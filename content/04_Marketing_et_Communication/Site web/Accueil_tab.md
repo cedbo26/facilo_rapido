@@ -8,7 +8,7 @@ tags: [accueil, site, wordpress, humour, conversion]
 cssclass: page-accueil
 aliases: [landing page, page d’accueil facilo]
 related:
-  - [[Pages Site Facilo]]
+  - [[Site web/Accueil_tab]]
   - [[🌐 Infrastructure_web]]
   - [[🎨 Identité_verbale_et_visuelle]]
 ---
@@ -51,10 +51,10 @@ Juste un téléphone qui obéit, des comptes en ordre, et la tranquillité qui r
 ## 🎁 Deux entrées, un même soulagement
 
 ### 👤 **Je veux me faire aider**  
-👉 [[📦 Nos Packs]]
+👉 [[Site web/Nos packs et offres_tab]]
 
 ### 🎁 **Je veux offrir Facilo à quelqu’un**  
-👉 [[🎁 Offrir Facilo]]
+👉 [[Site web/Offrir Facilo_tab]]
 
 ---
 
@@ -83,7 +83,7 @@ Juste un téléphone qui obéit, des comptes en ordre, et la tranquillité qui r
 
 ## 📞 Appelez-nous / Écrivez-nous / Cliquez sur le bouton
 
-🟢 **Bouton principal :** _Prendre rendez-vous_ → redirige vers [[📞 Contact / Prendre RDV]]
+🟢 **Bouton principal :** _Prendre rendez-vous_ → redirige vers [[Site web/Accueil_tab]]
 
 Ou discutez avec nous via :
 - WhatsApp (réponse rapide)

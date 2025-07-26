@@ -53,8 +53,8 @@ tags:
 - **Pack actif** : Facilo Start
 
 ## 📅 Historique des interventions
-- [[Intervention – Jean Dupont – 2025-07-24]]
-- [[Intervention – Jean Dupont – 2025-06-15]]
+- [[08_Procédures/Intervention_Jean_Dupont_2025-07-24]]
+- [[08_Procédures/Intervention_Jean_Dupont_2025-06-15]]
 
 ## 💸 Économies réalisées
 - **Économie estimée totale** : **CHF 110.–**

@@ -11,7 +11,7 @@ related:
   - [[Gestion mdp (macOS + iOS)]]
   - [[Gestion mdp mixte macOS + Android - iOS + PC]]
   - [[Gestion mdp Windows - Android]]
-  - [[Procedure Coffre Facilo]]
+  - [[08_Procédures/Procedure Coffre Facilo]]
 ---
 
 # 🧭 Index – Gestionnaires de mots de passe FACILO
@@ -46,7 +46,7 @@ Utilise **Google Password Manager** ou **Bitwarden**, selon profil.
 
 ## 🗂️ Ressources complémentaires
 
-- [[Procedure Coffre Facilo]] → pour noter mot de passe maître et comptes clés
+- [[08_Procédures/Procedure Coffre Facilo]] → pour noter mot de passe maître et comptes clés
 - [[📄 Analyse_Bitwarden]]
 - [[📄 Analyse_Trousseau_iCloud]]
 - [[📄 Intervention_Installation_Gestionnaire_MDP]]

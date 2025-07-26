@@ -10,8 +10,8 @@ cssclass: index-note
 related:
   - [[Trousseau iCloud]]
   - [[Bitwarden]]
-  - [[📄 Analyse MDP Google – Password Manager]]
-  - [[Procedure Coffre Facilo]]
+  - [[03_Structure_technique/Google Password Manager]]
+  - [[08_Procédures/Procedure Coffre Facilo]]
 ---
 
 # 🧭 Index – Gestionnaires de mots de passe FACILO
@@ -36,7 +36,7 @@ Guider l’intervenant dans le **choix de l’outil le plus adapté**, en foncti
 ### 🔄 [[Bitwarden]]
 ➡️ Solution **universelle** et **open source**, adaptée aux **écosystèmes mixtes** ou aux utilisateurs de **Chrome sur Apple**.
 
-### 🟢 [[📄 Analyse MDP Google – Password Manager]]
+### 🟢 [[03_Structure_technique/Google Password Manager]]
 ➡️ Outil intégré à **Chrome/Android**, destiné aux profils **peu technophiles** avec un environnement **100% Google**.
 
 ---
@@ -56,7 +56,7 @@ Guider l’intervenant dans le **choix de l’outil le plus adapté**, en foncti
 ---
 
 ## 📎 Ressources connexes
-- [[Procedure Coffre Facilo]]
-- [[Intervention_Bitwarden_Installation]]
+- [[08_Procédures/Procedure Coffre Facilo]]
+- [[08_Procédures/Intervention_Bitwarden_Installation]]
 - [[📄 Intervention_Trousseau_Activation]]
 - [[Google Password Manager]]

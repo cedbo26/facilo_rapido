@@ -44,7 +44,7 @@ related:
 - Sauvegarde physique
 - Automatisations
 
-> 🧩 Chaque service renvoie à une page détaillée (modèle : [[📄 Modèle_Page_service]])
+> 🧩 Chaque service renvoie à une page détaillée (modèle : [[07_Templates_Obsidian/📄 Modèle_Page_service]])
 
 ---
 
@@ -57,7 +57,7 @@ related:
 - Facilo Familia
 - Facilo Backup
 
-→ Voir aussi : [[📋 Grille_tarifaire]]
+→ Voir aussi : [[05_Prévisionnel_et_Finances/📋 Grille_tarifaire]]
 
 ---
 
@@ -104,9 +104,9 @@ related:
 - [[🌐 Infrastructure_web]]
 - [[🎨 Identité_verbale_et_visuelle]]
 - [[🗓️ Stratégie_de_lancement]]
-- [[📦 Packs_en_cours_de_création]]
-- [[📄 Modèle_Page_service]]
-- [[📋 Grille_tarifaire]]
+- [[02_Offres_et_Services/📦 Packs_en_cours_de_création]]
+- [[07_Templates_Obsidian/📄 Modèle_Page_service]]
+- [[05_Prévisionnel_et_Finances/📋 Grille_tarifaire]]
 
 ---
 

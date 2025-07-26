@@ -10,7 +10,7 @@ aliases: [trousseau apple, gestionnaire apple, mdp iCloud]
 cssclass: fiche-outil
 related:
   - [[📄 Gestion mdp (macOS + iOS)]]
-  - [[Procedure Coffre Facilo]]
+  - [[08_Procédures/Procedure Coffre Facilo]]
   - [[📄 Intervention_Trousseau_Activation]]
   - [[📄 Analyse_Bitwarden]]
   - [[🧰 Outils_clients_et_interventions]]
@@ -74,7 +74,7 @@ Il permet de **stocker, synchroniser et remplir automatiquement** les identifian
 
 ## 📎 Informations à consigner (par le client)
 - Identifiant Apple (mail)
-- Mot de passe Apple ID (à sécuriser selon [[Procedure Coffre Facilo]])
+- Mot de passe Apple ID (à sécuriser selon [[08_Procédures/Procedure Coffre Facilo]])
 - Adresse(s) de récupération
 - Code de l’appareil (iPhone / iPad / Mac)
 
@@ -82,7 +82,7 @@ Il permet de **stocker, synchroniser et remplir automatiquement** les identifian
 
 ## 🔁 Liens internes
 - [[📄 Gestion mdp (macOS + iOS)]]
-- [[Procedure Coffre Facilo]]
+- [[08_Procédures/Procedure Coffre Facilo]]
 - [[📄 Intervention_Trousseau_Activation]]
 - [[📄 Analyse_Bitwarden]]
 - [[🧰 Outils_clients_et_interventions]]

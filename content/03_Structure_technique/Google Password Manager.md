@@ -5,16 +5,25 @@ outil: Google Password Manager
 status: validé
 created: 2025-07-25
 author: Facilo Rapido
-tags: [google, mot-de-passe, android, chrome, facilo-analyse]
-aliases: [gestionnaire google, mdp chrome, mdp android]
-cssclass: fiche-outil
+tags:
+  - google
+  - mot-de-passe
+  - android
+  - chrome
+  - facilo-analyse
+aliases:
+  - gestionnaire google
+  - mdp chrome
+  - mdp android
+cssclasses:
+  - fiche-outil
 related:
-  - [[Trousseau iCloud]]
-  - [[Bitwarden]]
-  - [[Gestion mdp Windows - Android]]
-  - [[Procedure Coffre Facilo]]
-  - [[Google Password Manager]]
-  - [[🧰 Outils_clients_et_interventions]]
+  - - - Trousseau iCloud
+  - - - Bitwarden
+  - - - Gestion mdp Windows - Android
+  - - - Procedure Coffre Facilo
+  - - - Google Password Manager
+  - - - 🧰 Outils_clients_et_interventions
 ---
 
 # 🧰 Analyse MDP Google – Password Manager
@@ -85,7 +94,7 @@ Google Password Manager est le **gestionnaire de mots de passe natif de l’éco
 -[[Trousseau iCloud]]
 - [[Bitwarden]]
 - [[Gestion mdp Windows - Android]]
-- [[Procedure Coffre Facilo]]
+- [[08_Procédures/Procedure Coffre Facilo]]
 - [[Google Password Manager]]
 - [[🧰 Outils_clients_et_interventions]]
 

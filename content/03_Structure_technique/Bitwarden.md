@@ -11,8 +11,8 @@ cssclass: fiche-outil
 related:
   - [[Gestion mdp mixte macOS + Android - iOS + PC]]
   - [[Gestion mdp Windows - Android]]
-  - [[Procedure Coffre Facilo]]
-  - [[Intervention_Bitwarden_Installation]]
+  - [[08_Procédures/Procedure Coffre Facilo]]
+  - [[08_Procédures/Intervention_Bitwarden_Installation]]
   - [[🧰 Outils_clients_et_interventions]]
 ---
 
@@ -75,8 +75,8 @@ Bitwarden est un **gestionnaire de mots de passe sécurisé, open-source et mult
 ## 🔁 Liens internes
 - [[Gestion mdp mixte macOS + Android - iOS + PC]]
 - [[Gestion mdp Windows - Android]]
-- [[Procedure Coffre Facilo]]
-- [[Intervention_Bitwarden_Installation]]
+- [[08_Procédures/Procedure Coffre Facilo]]
+- [[08_Procédures/Intervention_Bitwarden_Installation]]
 - [[🧰 Outils_clients_et_interventions]]
 
 ---

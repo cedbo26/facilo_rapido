@@ -8,9 +8,9 @@ tags: [services, site, wordpress, humour, interventions]
 cssclass: page-services
 aliases: [page services, interventions facilo]
 related:
-  - [[Pages Site Facilo]]
-  - [[📦 Nos Packs]]
-  - [[🧾 Modèles_de_fiches_offres]]
+  - [[Site web/Accueil_tab]]
+  - [[Site web/Nos packs et offres_tab]]
+  - [[02_Offres_et_Services/🧾 Modèles_de_fiches_offres]]
 ---
 
 # 🔧 Nos Services – _Votre tranquillité numérique commence ici._
@@ -67,7 +67,7 @@ Chaque service est conçu pour **rendre votre quotidien plus simple**, plus flui
 ## 🧭 Comment choisir ?
 
 Nos services sont proposés :
-- ✅ **À la carte** → voir [[📦 Nos Packs]] ou [[🎁 Offrir Facilo]]
+- ✅ **À la carte** → voir [[Site web/Nos packs et offres_tab]] ou [[Site web/Offrir Facilo_tab]]
 - ✅ **En abonnements annuels** (packs Zen / Familia)
 - ✅ **Sur mesure** si situation complexe (familles, indépendants, professionnels)
 

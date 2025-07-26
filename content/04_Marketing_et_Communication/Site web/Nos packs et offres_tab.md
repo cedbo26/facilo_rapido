@@ -8,10 +8,10 @@ tags: [offres, packs, abonnements, site, wordpress]
 cssclass: page-offres
 aliases: [packs facilo, nos formules, abonnement facilo]
 related:
-  - [[Pages Site Facilo]]
-  - [[📞 Contact / Prendre RDV]]
-  - [[🎁 Offrir Facilo]]
-  - [[📋 Grille_tarifaire]]
+  - [[Site web/Accueil_tab]]
+  - [[Site web/Accueil_tab]]
+  - [[Site web/Offrir Facilo_tab]]
+  - [[05_Prévisionnel_et_Finances/📋 Grille_tarifaire]]
 ---
 
 # 📦 Nos Packs & Offres – _Choisissez votre dose de tranquillité digitale_
@@ -92,7 +92,7 @@ Ici, vous trouvez le pack qui correspond à votre niveau de galère (ou à celui
 - Impression d’une **carte cadeau personnalisée** possible
 - Prise de contact avec la personne bénéficiaire par nos soins (avec douceur)
 
-🟢 **Bouton dédié** : _Offrir ce pack_ → redirige vers [[🎁 Offrir Facilo]]
+🟢 **Bouton dédié** : _Offrir ce pack_ → redirige vers [[Site web/Offrir Facilo_tab]]
 
 ---
 
@@ -105,4 +105,4 @@ Ici, vous trouvez le pack qui correspond à votre niveau de galère (ou à celui
 | Intervention ponctuelle     | Facilo Boost         |
 | Pour aider des proches      | Facilo Familia / Offrir |
 
-> _Et si vous hésitez, un seul réflexe → [[📞 Contact / Prendre RDV]]_ 📞
+> _Et si vous hésitez, un seul réflexe → [[Site web/Accueil_tab]]_ 📞
