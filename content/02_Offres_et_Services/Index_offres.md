@@ -44,7 +44,7 @@ Ce fichier vous permet de retrouver facilement :
 
 ## 🎯 Typologie des demandes
 
-📄 `[[02_Offres_et_Services/Typologie_demandes_clients]]`  
+📄 [[02_Offres_et_Services/Typologie_demandes_clients]]`  
 → Liste complète des besoins récurrents, classés par catégories :  
 mots de passe, optimisation, sécurité, rationalisation, etc.
 

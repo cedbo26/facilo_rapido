@@ -98,11 +98,11 @@ Ici, vous trouvez le pack qui correspond à votre niveau de galère (ou à celui
 
 ## 🧭 Quel pack choisir ?
 
-| Besoin                        | Pack recommandé     |
-|------------------------------|----------------------|
-| Démarrage ou remise à plat  | Facilo Start         |
-| Suivi annuel                 | Facilo Zen           |
-| Intervention ponctuelle     | Facilo Boost         |
-| Pour aider des proches      | Facilo Familia / Offrir |
+| Besoin                     | Pack recommandé             |
+| -------------------------- | --------------------------- |
+| Démarrage ou remise à plat | [[Facilo_Start]]            |
+| Suivi annuel               | [[Facilo_Zen]]              |
+| Intervention ponctuelle    | [[Facilo_Boost]]            |
+| Pour aider des proches     | [[Facilo_Familia]] / Offrir |
 
 > _Et si vous hésitez, un seul réflexe → [[Site web/Accueil_tab]]_ 📞
