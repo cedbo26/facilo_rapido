@@ -11,6 +11,7 @@ tags:
   - android
   - chrome
   - facilo-analyse
+  - androidonly
 aliases:
   - gestionnaire google
   - mdp chrome
@@ -25,7 +26,6 @@ related:
   - - - Google Password Manager
   - - - 🧰 Outils_clients_et_interventions
 ---
-
 # 🧰 Analyse MDP Google – Password Manager
 
 ## 🎯 Objectif
@@ -91,7 +91,7 @@ Google Password Manager est le **gestionnaire de mots de passe natif de l’éco
 ---
 
 ## 🔁 Liens internes
--[[Trousseau iCloud]]
+- [[Trousseau iCloud]]
 - [[Bitwarden]]
 - [[Gestion mdp Windows - Android]]
 - [[08_Procédures/Procedure Coffre Facilo]]

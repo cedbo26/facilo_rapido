@@ -74,13 +74,13 @@ exit 0
 
 ## 5. Où se trouvent les fichiers ?
 
-| Élément                      | Emplacement                                                              |
-|------------------------------|--------------------------------------------------------------------------|
-| **Vault Obsidian FACILO**    | `/Users/benaissa287/Library/Mobile Documents/iCloud~md~obsidian/Documents/FACILO` |
-| **Dépôt Quartz (GitHub)**    | `/Users/benaissa287/Documents/GitHub/facilo_rapido`                      |
-| **Script de synchronisation**| `/Users/benaissa287/Documents/GitHub/facilo_rapido/sync_obsidian_to_quartz.sh` |
-| **Dossier de contenu Quartz**| `/Users/benaissa287/Documents/GitHub/facilo_rapido/content`               |
-| **Config Quartz**            | `/Users/benaissa287/Documents/GitHub/facilo_rapido/quartz.config.ts`      |
-| **Site publié**              | `https://cedbo26.github.io/facilo_rapido/`                                |
+| Élément                       | Emplacement                                                                       |
+| ----------------------------- | --------------------------------------------------------------------------------- |
+| **Vault Obsidian FACILO**     | `/Users/benaissa287/Library/Mobile Documents/iCloud~md~obsidian/Documents/FACILO` |
+| **Dépôt Quartz (GitHub)**     | `/Users/benaissa287/Documents/GitHub/facilo_rapido`                               |
+| **Script de synchronisation** | `/Users/benaissa287/Documents/GitHub/facilo_rapido/sync_obsidian_to_quartz.sh`    |
+| **Dossier de contenu Quartz** | `/Users/benaissa287/Documents/GitHub/facilo_rapido/content`                       |
+| **Config Quartz**             | `/Users/benaissa287/Documents/GitHub/facilo_rapido/quartz.config.ts`              |
+| **Site publié**               | `https://cedbo26.github.io/facilo_rapido/`                                        |
 
 

@@ -13,7 +13,6 @@ related:
   - [[📄 Index_offres]]
   - [[🧾 Modèles_de_fiches_offres]]
 ---
-
 # 📋 Grille tarifaire – Facilo Rapido
 
 Cette grille présente l’ensemble des **packs et services** proposés par Facilo Rapido, avec une distinction claire entre :
@@ -27,12 +26,12 @@ Les prix sont **indicatifs** et peuvent être modulés selon la complexité du c
 
 ## 🧩 Tarifs des Packs
 
-| Pack                | À distance 💻 | Sur place 🚗 | Notes |
-|---------------------|---------------|--------------|-------|
-| `[[Facilo_Start]]`   | CHF 80.–       | CHF 120.–     | Intervention unique avec création de coffre |
-| `[[Facilo_Zen]]`     | CHF 140/an     | CHF 180/an    | Abonnement annuel (2 à 4 interventions) |
-| `[[Facilo_Familia]]` | CHF 240/an     | CHF 300/an    | Pour 2 à 4 personnes (packs Start inclus) |
-| `[[Facilo_Backup]]`  | CHF 20–30.–    | CHF 30–50.–   | Option complémentaire (clé ou papier) |
+| Pack               | À distance 💻 | Sur place 🚗 | Notes                                       |
+| ------------------ | ------------- | ------------ | ------------------------------------------- |
+| [[Facilo_Start]]   | CHF 80.–      | CHF 120.–    | Intervention unique avec création de coffre |
+| [[Facilo_Zen]]     | CHF 140/an    | CHF 180/an   | Abonnement annuel (2 à 4 interventions)     |
+| [[Facilo_Familia]] | CHF 240/an    | CHF 300/an   | Pour 2 à 4 personnes (packs Start inclus)   |
+| [[Facilo_Backup]]  | CHF 20–30.–   | CHF 30–50.–  | Option complémentaire (clé ou papier)       |
 
 ---
 
@@ -68,7 +67,8 @@ Les prix sont **indicatifs** et peuvent être modulés selon la complexité du c
 
 ## 🔗 Liens associés
 
-- `[[📦 Packs_en_cours_de_création]]`
-- `[[🎯 Typologie_demandes_clients_Facilo]]`
-- `[[📄 Index_offres]]`
-- `[[🧾 Modèles_de_fiches_offres]]`
+- [[📦 Packs_en_cours_de_création]]
+- [[🎯 Typologie_demandes_clients_Facilo]]
+- [[📄 Index_offres]]
+- [[🧾 Modèles_de_fiches_offres]]
+

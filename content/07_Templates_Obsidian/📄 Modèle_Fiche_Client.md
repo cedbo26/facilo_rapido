@@ -22,35 +22,13 @@ tags:
   - client
   - profil/débutant
 ---
----
-type: client
-nom: Jean Dupont
-email: jean.dupont@example.com
-telephone: 079 123 45 67
-adresse: Rue du Lac 12, Lausanne
-profil_utilisateur: débutant
-packs_actifs: [Facilo Start]
-appareils: [iPhone, PC Windows]
-dernière_intervention: 2025-07-24
-prochaine_relance: 2025-08-10
-économie_estimee_total: 110
-cssclass: fiche-client
-aliases:
-  - JD
-  - Dupont Jean
-tags:
-  - client
-  - profil/débutant
----
-
 # 👤 Fiche client – Jean Dupont
 
 ## 🔍 Profil utilisateur
-- **Niveau** : Débutant
-- **Appareils utilisés** :
-  - iPhone (iOS)
-  - PC sous Windows
-- **Pack actif** : Facilo Start
+
+| Pack actif   | Niveau   | Appareils utilisés         |
+| ------------ | -------- | -------------------------- |
+| Facilo Start | Débutant | iPhone (iOS), PC (Windows) |
 
 ## 📅 Historique des interventions
 - [[08_Procédures/Intervention_Jean_Dupont_2025-07-24]]

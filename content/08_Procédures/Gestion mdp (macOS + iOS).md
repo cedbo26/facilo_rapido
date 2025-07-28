@@ -17,7 +17,6 @@ related:
   - [[📄 Modele_Fiche_Intervention]]
   - [[🧰 Outils_clients_et_interventions]]
 ---
-
 ## 🎯 Objectif
 Permettre au client Apple (iPhone + Mac) d’utiliser **le trousseau iCloud** comme gestionnaire de mots de passe principal, **synchronisé automatiquement entre ses appareils**.
 

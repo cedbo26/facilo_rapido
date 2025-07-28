@@ -82,3 +82,7 @@ Que ce soit pour vos parents, un proche senior, ou un ami débordé… Offrir Fa
 ---
 
 > _Offrir Facilo, c’est un peu comme offrir une boîte à outils… mais pour Internet._ 🔧💻❤️
+
+
+
+[[Services_tab]]

@@ -13,7 +13,6 @@ related:
   - [[Gestion mdp Windows - Android]]
   - [[08_Procédures/Procedure Coffre Facilo]]
 ---
-
 # 🧭 Index – Gestionnaires de mots de passe FACILO
 
 Cette page sert de **point d’entrée unique** pour le choix et la mise en place d’un gestionnaire de mots de passe chez les clients **Facilo Rapido**, selon leur configuration numérique.

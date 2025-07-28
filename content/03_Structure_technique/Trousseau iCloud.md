@@ -15,7 +15,6 @@ related:
   - [[📄 Analyse_Bitwarden]]
   - [[🧰 Outils_clients_et_interventions]]
 ---
-
 # 🧰 Analyse outil – Trousseau iCloud (gestionnaire Apple natif)
 
 ## 🎯 Objectif

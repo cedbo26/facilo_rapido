@@ -17,7 +17,6 @@ related:
   - [[📄 Fiche Client – Jean Dupont]]
   - [[🧰 Outils_clients_et_interventions]]
 ---
-
 ## 🎯 Objectif
 Installer et configurer un **gestionnaire de mots de passe** adapté à un environnement 100% Google (Android + Chrome sur Windows).  
 Deux options sont proposées en fonction du niveau du client :

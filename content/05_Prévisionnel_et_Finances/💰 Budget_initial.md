@@ -12,7 +12,6 @@ related:
   - [[📊 Suivi_rentabilité_pack_par_pack]]
   - [[📋 Grille_tarifaire]]
 ---
-
 # 💰 Budget initial – Facilo Rapido
 
 Ce fichier présente les **charges de lancement** et les **coûts récurrents** minimaux du projet Facilo Rapido, avec les outils et hébergements réellement utilisés.
@@ -72,7 +71,7 @@ Ce fichier présente les **charges de lancement** et les **coûts récurrents** 
 
 ## 🔗 Liens associés
 
-- `[[📈 Prévisionnel_sur_12_mois]]`
-- `[[📋 Grille_tarifaire]]`
-- `[[📄 Index_offres]]`
-- `[[📊 Suivi_rentabilité_pack_par_pack]]`
+- [[📈 Prévisionnel_sur_12_mois]]
+- [[📋 Grille_tarifaire]]
+- [[📄 Index_offres]]
+- [[📊 Suivi_rentabilité_pack_par_pack]]

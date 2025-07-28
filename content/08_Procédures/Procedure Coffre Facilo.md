@@ -25,7 +25,6 @@ related:
   - - - 📄 Analyse_Trousseau_iCloud
   - - - 📄 Fiche Client – ...
 ---
-
 # 🔐 Procédure FACILO – Coffre client (mot de passe maître)
 
 ## 🎯 Objectif
@@ -67,6 +66,7 @@ Ce mot de passe est la **clé de tous ses accès** (Apple, Bitwarden, Google, et
 - [ ] Inscrit sur une **fiche spéciale Facilo** (remise au client)
 - [ ] Glissé dans un **portefeuille / agenda**
 - [ ] Placé dans un **lieu fixe connu (tiroir, coffre domestique)**
+- [ ] [[Carte RFID]]
 
 ### 👤 Confier à un proche de confiance :
 - [ ] Un **conjoint**

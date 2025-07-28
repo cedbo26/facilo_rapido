@@ -36,7 +36,7 @@ Guider l’intervenant dans le **choix de l’outil le plus adapté**, en foncti
 ### 🔄 [[Bitwarden]]
 ➡️ Solution **universelle** et **open source**, adaptée aux **écosystèmes mixtes** ou aux utilisateurs de **Chrome sur Apple**.
 
-### 🟢 [[03_Structure_technique/Google Password Manager]]
+### 🟢 [[Google Password Manager]]
 ➡️ Outil intégré à **Chrome/Android**, destiné aux profils **peu technophiles** avec un environnement **100% Google**.
 
 ---
