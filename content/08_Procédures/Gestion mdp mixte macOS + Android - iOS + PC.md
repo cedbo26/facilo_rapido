@@ -115,5 +115,3 @@ Ce gestionnaire permet une **synchronisation sécurisée** entre Mac, Android, i
 
 ## ✅ Statut
 **Procédure validée** – recommandée systématiquement pour les clients multi-plateformes (iOS/PC ou Mac/Android)
-
-yes
